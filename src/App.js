@@ -11,7 +11,7 @@ function App() {
   async function handleSearch (){
     //01310930/json/
     if(input === ''){
-      alert("Digite um CEP")
+      //alert("Digite um CEP")
       return;
     }
     try{
